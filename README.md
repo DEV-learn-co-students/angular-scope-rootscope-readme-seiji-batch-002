@@ -1,0 +1,1 @@
+# angular-scope-rootscope-readme
