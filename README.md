@@ -105,3 +105,4 @@ We also have the `$rootScope` - this is the first scope in our application. All 
 ## What else does $scope offer?
 
 `$scope` isn't just an object that can assign values to the view - it's also an extremely powerful API that allows us to do things, such as communicating between scopes, keep track of data state, watching for changes and much more - but we'll touch on this later.
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/angular-scope-rootscope-readme' title='angular-scope-rootscope-readme'>angular-scope-rootscope-readme</a> on Learn.co and start learning to code for free.</p>
